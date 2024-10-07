@@ -19,3 +19,5 @@ func main() {
 [Uso de variables](./variables.md)
 
 [Uso de condicionale](./condicionales_go.md)
+
+[Como crear e importar funciones externas (paquetes)](./CrearDiferentesPaquetes.md)
